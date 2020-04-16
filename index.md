@@ -11,7 +11,7 @@ permalink: /
 <div>
   {% for post in site.posts limit:1 %}
     <h1>{{ post.title }}</h1>
-    <p>{{ post.date }}</p>
+    <p style="font-size: .9em;">{{ post.date | date_to_long_string }}</p>
     <div>{{ post.content }}</div>
   {% endfor %}
 </div>

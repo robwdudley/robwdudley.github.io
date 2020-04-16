@@ -34,11 +34,19 @@ h1 {
   color: red;
 }
 
-
+/***************** Home page ****************/
 
 .right-now {
   font-size: .9em;
-  padding-bottom: 1em;
+  padding-bottom: 2em;
   color: black;
-  font-family: 'IBM Plex Sans', sans-serif;
+  /**font-family: 'IBM Plex Sans', sans-serif; **/
+  
+}
+
+/***************** Archives Page ********************/
+
+.archive-list li a{
+  color: black;
+  text-decoration: underline;
 }

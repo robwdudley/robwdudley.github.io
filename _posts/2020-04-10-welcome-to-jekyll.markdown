@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Defining friction"
+title:  "Defining Friction"
 date:   2020-04-10 18:56:39 -0500
 categories: jekyll update
 ---
