@@ -1,0 +1,44 @@
+
+/** @import "{{ name.theme }}"; //
+//************** Universal styles ******************/
+
+.body {
+  background-color: red;
+}
+
+p {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 2em;
+}
+
+/****************** Navigation ******************/
+.main-nav {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.nav-link {
+  color: black;
+}
+
+.main-nav li {
+  color: red;
+}
+
+.nav-link a {
+  color: red;
+}
+
+
+
+.right-now {
+  font-size: .9em;
+  padding-bottom: 1em;
+  color: black;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
