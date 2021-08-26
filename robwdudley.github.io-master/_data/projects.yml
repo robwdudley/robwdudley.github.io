@@ -1,0 +1,47 @@
+- name: Abel Air & Heat
+  category: "website | logo | branding | business card"
+  image: assets/img/project/aah-website.png
+  summary:
+  url: /abel-air-and-heat
+
+- name: Brews Almighty
+  category: "logo"
+  image: assets/img/project/brews-almighty-logo.jpeg
+  summary:
+  url: /brews-almighty
+
+- name: Comfort Air & Heat
+  category: "website | copy"
+  image: assets/img/project/comfort-website.png
+  summary:
+  url: /comfort-air-and-heat
+
+- name: dudley.io
+  category: "website | illustration"
+  image: assets/img/project/dudley-io.png
+  summary:
+  url: /dudley-io
+
+- name: Herzik Lab
+  category: "website | logo"
+  image: assets/img/project/herzik-lab.png
+  summary:
+  url: /herzik-lab
+
+- name: High Security Lock & Safe
+  category: "logo | branding | business card"
+  image: assets/img/project/hsls-logo.jpg
+  summary:
+  url: /high-security-lock-and-safe
+
+- name: Kickass Nutrition
+  category: "logo | website | business model"
+  image: assets/img/project/kn-logo.jpg
+  summary:
+  url: /kickass-nutrition
+
+- name: Tesla Innovation Project
+  category: "illustration | concept"
+  image: assets/img/project/tesla-innovation-concepts.png
+  summary:
+  url: /tesla-innovation-project
