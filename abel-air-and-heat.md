@@ -18,7 +18,7 @@ permalink: /abel-air-and-heat
 
   <div class="row">
     <div class="col-12">
-      <img src="assets/img/project/abel-bc.jpg" style="width: 100%">
+      <img src="assets/img/project/abel-bc.JPG" style="width: 100%">
     </div>
   </div>
   <div class="row approach-section">
