@@ -12,7 +12,7 @@ permalink: /kickass-nutrition
       <h1 class="company-name">Kickass Nutrition</h1><br>
     </div>
     <div class="col-8">
-      <p>Kickass Nutrition, LLC was a company I launched (or rather failed to launch) several years ago beginning in 2012. The original idea was a site for fitness supplements, like bodybuilding.com. However, I realized that I needed to find a more specialized niche if I wanted to gain traction, so I decided to target endurance athletes (runners, cyclists, triathletes, etc.) who were focused on high-quality ingredients. After several roadblocks with web designers and distribution companies, I decided to pivot toward a meal-planning website to create and save meal plans according to an athletes Basal Metabolic Rate (BMR), Total Daily Energy Expenditure (TDEE), and food preferences.</p>
+      <p>Kickass Nutrition, LLC was a company I launched (or rather failed to launch) back in 2012. The original idea was a site for fitness supplements, like bodybuilding.com. However, I realized that I needed to find a more specialized niche if I wanted to gain traction, so I decided to target endurance athletes (runners, cyclists, triathletes, etc.) who were focused on high-quality ingredients. After several roadblocks with web designers and distribution companies, I decided to pivot toward a meal-planning website to create and save meal plans according to an athletes Basal Metabolic Rate (BMR), Total Daily Energy Expenditure (TDEE), and food preferences.</p>
     </div>
   </div>
 
