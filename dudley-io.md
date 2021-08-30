@@ -26,7 +26,7 @@ permalink: /dudley-io
       <h3>Approach</h3><br>
     </div>
     <div class="col-9">
-      <p>I was originally just looking for design inspiration on Dribbble and Behance when I stumbled upon this design from Tonik. I fell in love with it immediately! The design is very clean and minimal with just enough style to feel there is a personality. The original design had blue as the contrast color, so I chose green and designed my profile illustration based on the style from the Tonik’s original illustration. I used Adobe Illustrator to design the illustration and Bootstrap to quickly create the structure and style of the site so typical elements like buttons would have pre-written CSS attributes to look good enough from the start.</p>
+      <p>I was originally just looking for design inspiration on Dribbble and Behance when I stumbled upon this design from Tonik. I fell in love with it immediately! The design is very clean and minimal with just enough style to feel there is a personality. The original design had blue as the contrast color, so I chose green and designed my profile illustration based on the style of Tonik’s original illustration. I used Adobe Illustrator to design the illustration and Bootstrap to quickly create the structure and style of the site so typical elements like buttons would have pre-written CSS attributes to look good enough from the start.</p>
     </div>
   </div>
 
