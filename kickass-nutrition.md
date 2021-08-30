@@ -18,7 +18,7 @@ permalink: /kickass-nutrition
 
   <div class="row">
     <div class="col-12">
-      <img src="assets/img/project/kn-logo.jpg" style="width: 100%">
+      <img src="assets/img/project/kn-logo.JPG" style="width: 100%">
     </div>
   </div>
   <div class="row approach-section">
