@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container main-nav">
+    <a class="navbar-brand" href="/"><img src="/assets/img/profile-photo.svg" class="brand-profile">Rob Dudley</a>
+
+    <div class="navbar" id="navbarNav">
+      <ul class="navbar-nav">
+
+
+        {% for item in site.data.items %}
+          <li><a class="nav-item {% if item.url == page.url %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      
+<!--
+        {% for item in site.data.navigation %}
+          <li class="nav-item"{% if navigation.url == page.url %} class="active"{% endif %}><a href="{{ navigation.url }}">{{ navigation.title }}</a></li>
+        {% endfor %}
+         <li class="nav-item">
+          <a class="nav-link" href="/">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/projects">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/archives">Archives</a>
+        </li> -->
+      </ul>
+    </div>
+  </div>
+</nav>
