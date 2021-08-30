@@ -1,0 +1,245 @@
+---
+# front matter tells Jekyll to process Liquid
+layout: default
+title:
+permalink: /tesla-innovation-project
+---
+
+
+<div class="container single-project">
+  <div class="row company-info">
+    <div class="col-4">
+      <h1 class="company-name">Tesla Innovation Project</h1><br>
+    </div>
+    <div class="col-8">
+      <p>This was the capstone project for my Corporate Entrepreneurship class. The brief was to select a company and develop seven innovative concepts for them to launch. Our team chose Tesla. I was responsible for two of the product concepts, but I ended up generating four of the seven ideas and creating the illustrations for five of the products. I was also the leader of the team and principal architect of the 90+ page document we submitted at the end of the term.</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12">
+      <img src="assets/img/project/tesla-innovation-concepts.png" style="width: 100%">
+    </div>
+  </div>
+  <div class="row approach-section">
+    <div class="col-3">
+      <h3>Approach</h3><br>
+    </div>
+    <div class="col-9">
+      <p>We focused on product ideas that we considered to be on the peripherals of categories that Tesla was already in. For instance, one of my concepts was a smart air conditioning system and Tesla has already innovated various components for the A/C system in their vehicles. Our concepts included a battery depot, air conditioner, cyber bike, smart home, smart fridge, heavy machinery, and desalination unit. I developed the battery depot and air conditioner.</p>
+    </div>
+  </div>
+
+  <div class="row approach-section">
+    <div class="col-3">
+      <h3>Teammate Feedback</h3><br>
+    </div>
+    <div class="col-9">
+      <p>
+        At the end of the semester, each of us had to give feedback to the other team members related to their work ethic and overall  involvement in the project. We also had 100 points to award each member, but you could give someone more than 100. However, if you gave someone more than 100, say 110, you had to take the extra 10 points away from someone else.
+      </p>
+      <p>
+        I received the following grades from my peers:  100, 102, 115, and 130 for an average of 111.75.
+      </p>
+      <p>
+        Here's what they said about me!
+      </p>
+      <p>
+        “I appreciated Robert for being the person keeping the team on track and reminding us when to turn everything in. He was also the one to create the member's concept illustrations, which he didn't have to but still offered. Robert organized all of our research concepts and did more than he was suppose to, which really helped our team finish everything on time.”
+      </p>
+      <p>
+        “Robert, It was a pleasure working with you on this project. You went above and beyond throughout the project and kept us on track. Good luck in your future endeavors!”
+      </p>
+      <p>
+        “You were instrumental in the completion of our project and I really appreciate all of the work and effort you put into getting it done. Our project would not have been completed to the standard that it was had you not been a member of our team. Thank you for your work and commitment.”
+      </p>
+      <p>
+        “Thank you for being a critical part of our project! Your efforts were integral to providing a focus that allowed us as a team to perfect our ideas and thoughts into something meaningful. You are a great organizer, leader, and teammate and I'm glad to have spent the last month working with you!”
+      </p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12">
+      <img src="assets/img/project/tesla-battery-depot.png" style="width: 100%">
+    </div>
+  </div>
+
+  <div class="row approach-section">
+    <div class="col-8 offset-2">
+      <h3>Innovation: Battery Depot</h3>
+
+          <h5 style="padding-top: 2em">Innovation Type</h5>
+          <p>Continuous Innovation: Extension of Existing Line.</p>
+
+
+          <h5>Concept must provide an overt benefit to a user</h5>
+          <p>
+            The primary benefit of the Tesla Battery Depot is that it allows drivers to swap out their low-charge battery for a fully charged one in less than 90 seconds. Currently, drivers are able to use Tesla Superchargers to recharge their vehicle’s battery in about 30 minutes. The battery swap is 20 times faster and provides a fully charged solution when using the turbocharger for 30 minutes only gets you an 80% charge. Another benefit is that drivers who opt for this program will subscribe to the battery network rather than owning the battery, which will lower the purchase price of a new Tesla by $9,000.
+          </p>
+
+          <h5 style="padding-top: 2em">Concept is unique and not easy to imitate</h5>
+          <p>
+            The concept is unique because no other automaker is currently using this strategy or providing a seamless solution for keeping drivers on the road rather than waiting for their electric vehicles to charge. The concept is not easy to imitate because it relies on Tesla’s unique battery technology and the real estate of the Supercharger network where the battery depots will be placed. Although with time other automakers can implement this innovative concept, Tesla is in a unique position to capitalize on this strategy for perhaps years before their competitors catch up.
+          </p>
+
+
+          <h5 style="padding-top: 2em">Concept is feasible and can be implemeneted</h5>
+          <p>
+            The concept is feasible because Tesla already has thousands of Supercharger stations all over the world where the battery depots can be placed and the batteries are already easily swapped in the 90-second timeframe (Tesla, 2013). Tesla also has the resources and technology to implement this concept.
+          </p>
+
+
+          <h5 style="padding-top: 2em">Concepts return exceeds its cost</h5>
+          <p>
+            Although there will be an upfront investment in the current infrastructure of the Supercharger network to deploy this innovation concept, the returns should exceed the cost of the program. Sales of electric vehicles should increase since the $9,000 cost of the battery will be discounted from the sales price, making the cars more affordable. Also, the monthly recurring revenue (MRR) from the battery subscription model should provide a substantial revenue stream to make the project highly profitable.
+          </p>
+
+          <h5 style="padding-top: 2em">Concept offers a complete value proposition</h5>
+          <p>Target Market: Tesla owners who want a seamless charging solution that is 20 times faster than their current charge time, prospects who have been hesitant to purchase a Tesla because of the price, and prospects who have been hesitant to purchase because of charging times.</p>
+          <p> - 20 times faster charge time that causes very little delay in the driver’s busy schedule.<br>
+              - More affordable vehicles so consumers can purchase sooner.<br>
+              - Gives participants access to the latest battery technology as Tesla makes improvements to the design over time and puts  them in circulation.<br>
+          </p>
+          <p>
+            Estimated Initial Price Range: The electric vehicles will be roughly $9,000 cheaper and the monthly cost for participating in the battery subscription will be $150 a month. Over time, Tesla will make improvements to the battery design that result in less-expensive batteries so the cost of the monthly subscription could reasonably be lowered as well.
+          </p>
+
+          <h5 style="padding-top: 2em">Company, Products, Market</h5>
+          <p>
+            Tesla, Inc. was founded in 2003 by Elon Musk and four other engineers who “wanted to prove that people didn’t need to compromise to drive electric” (Tesla, n.d.). Tesla’s overarching mission is “to accelerate the world’s transition to sustainable energy” (Tesla, n.d.). The strategy used to accomplish this mission is similar to that of tech hardware companies. They started by launching a premium electric sports car, the Tesla Roadster, with the target market being more affluent customers. They then used the revenue from those sales to fund a more affordable family-friendly sedan, the Model S. The massive success of the Model S has enabled Tesla to bring electric vehicles to the masses with the Model 3, the world’s best-selling electric vehicle, starting at roughly $34,000 (Wagner, 2020). Now that Tesla has a sustainable business model, they have started to venture into other markets that further their mission of creating a sustainable energy economy. In pursuit of this mission, Tesla has become a vertically integrated manufacturer of batteries, motors, AI technology, and glass.
+          </p>
+          <p>
+            As previously mentioned, Tesla is mostly known for its electric vehicle line up with the Model S, Model 3, Model X, and Model Y. Though not on the market yet, they are also currently producing the Cyber Truck, a pick-up truck to rival the Ford F-Series, and a state-of-the-art Semi Truck, Tesla Semi. Tesla also offers the Powerwall, an energy storage bank that homeowners can use to store excess energy from their solar panels in case of emergency and the Powerpack for commercial customers to store and manage their business center’s energy. With the purchase of SolarCity in 2016, Tesla has also entered the solar technology market (Tesla, 2016). The SolarCity purchase enables Tesla to extend its product offering to solar panels and solar roofs. Tesla now has a sustainable energy ecosystem with a focus on capturing, storing, and delivering clean energy. All of Tesla’s products are almost exclusively sold through its website, tesla.com. Customers can also test-drive and order vehicles through Tesla retail stores and galleries.
+          </p>
+          <p>
+            Geographically, Tesla sells electric vehicles all over the world with the United States and China representing the biggest markets. As far as products and services are concerned, Tesla operates in the automobile market with its lineup of electric vehicles and the sustainable energy market with its solar panels, solar roof, and energy storage. In pursuit of uncompromising electric vehicles, Tesla has also mastered several technological disciplines that put them in the battery, motor, glass, and Artificial Intelligence markets as well.
+          </p>
+          <h5 style="padding-top: 2em">Company Fit</h5>
+          <p>
+            The Battery Depot is a good fit for Tesla because it streamlines the recharging process by a factor of 20 and it creates an additional revenue stream via the battery subscription service. The Battery Depot also creates a strategic advantage because no other automaker has the infrastructure or battery technology to implement the concept and the advantage can be enhanced by partnering with automakers to allow them to use the Tesla battery technology and enroll their customers in the program.
+          </p>
+
+          <h5 style="padding-top: 2em">Intended Target Market and Competition</h5>
+          <p>
+            The intended market for the Battery Depot is current Tesla owners who would like the option of a faster charging experience and prospective electric vehicle buyers who are price sensitive or concerned about the time needed to charge the vehicle. Current Tesla owners will get a credit to their account for the current value of their battery when they join the service. Major competitors include the Ford Motor Company, General Motors, and Porsche. Porsche currently claims to have the fastest charging stations in the world,  stating that “the charging time for 5 to 80 percent SoC (State of Charge) is 22.5 minutes in ideal conditions...” (Porsche, n.d.).
+          </p>
+
+          <h5 style="padding-top: 2em">Features, Functions, and Benefits of Innovation Concept</h5>
+          <p>
+            The Battery Depot will allow drivers to obtain a fully charged battery in 90 seconds compared to the current time of charging the same battery at 20 minutes for 80% capacity. It also gives drivers the latest battery technology as Tesla designs more efficient batteries and places them in circulation. Since drivers will no longer own the batteries, the price of the vehicles will drop by roughly $9,000 (cost of the battery). To conduct a battery swap, the driver will pull into the Battery Depot at a Tesla Supercharging station. Sensors in the depot will ensure that the vehicle is in proper alignment for the swap. The batteries and machines will be stored in the ground underneath the depot. The depot will communicate with the driver wirelessly through the vehicle’s display, at which point the depot identifies the driver through the vehicle’s data and verifies their status in the battery program. The platform under the vehicle will open and robotic machines will remove the old battery and begin charging it and running diagnostics. The machines will then place the new battery on the vehicle, the platform opening will close, and the driver will be on their way. The Battery Depot will check the health of the old battery and pull it out of circulation if it is unsatisfactory. Tesla will be notified and will schedule a pick-up at some point in the future to recycle the damaged battery.
+          </p>
+
+          <h5 style="padding-top: 2em">Competitive Differentiation of the Innovation Concept</h5>
+          <p>
+            The Battery Depot innovation would be a strategic advantage since no other automaker is using this strategy to improve the charging experience for their drivers. Tesla would have the fastest charging times of any automaker by a factor of 20. The other competitive advantage is that Tesla already has thousands of Supercharger stations all over the world where they could place the depots. Rapidly expanding a charging network isn’t something competitors can do easily.
+          </p>
+
+          <h5 style="padding-top: 2em">Critical Risks and Limitations</h5>
+          <p>
+            Other than natural competition from other automakers, one of the biggest risks is the behavioral change for drivers to not own their vehicle’s battery. This concept could be non-viable based on cultural beliefs and feelings or simply too early for the market. Another risk is that paying $150 a month for energy indefinitely may be unpalatable to some consumers. However, as previously mentioned, the price of the monthly subscription can be lowered as Tesla improves its design and manufactures less-expensive batteries. Like most new technologies, the earliest adopters will pay the most.
+          </p>
+
+
+    </div>
+  </div>
+
+<hr style="margin-bottom: 5em">
+
+  <div class="row">
+    <div class="col-12">
+      <img src="assets/img/project/tesla-air.png" style="width: 100%">
+    </div>
+  </div>
+
+
+  <div class="row approach-section">
+    <div class="col-8 offset-2">
+      <h3>Innovation: Tesla Air</h3>
+
+          <h5 style="padding-top: 2em">Innovation Type</h5>
+          <p>Dynamically Continuous Innovation: New to the Market</p>
+
+
+          <h5>Concept must provide an overt benefit to a user</h5>
+          <p>
+            Tesla Air’s main benefit is that it purifies the air and detects noxious gases inside of buildings, alerting the user through the Tesla application of likely sources of the gas. This enables customers to increase their respiratory health and decrease the effects of allergies and other harsh irritants on their wellbeing. It also gives customers total control over their heating and cooling, complete integration of other Tesla products to enhance Tesla Air’s utility, and lowers the cost and impact of energy used to maintain the temperature in a home.
+          </p>
+
+          <h5 style="padding-top: 2em">Concept is unique and not easy to imitate</h5>
+          <p>
+            While Internet of Things (IoT) enabled A/C units are nothing new, Tesla Air is unique because it uses Tesla’s state-of-the-art HEPA filter and sensors to detect air quality throughout the house and engages Tesla’s Bioweapon Defense Mode when it detects noxious gas, which then quickly removes it. It’s also unique because Tesla Air can connect to other Tesla products, such as electric vehicles and solar panels. This innovation is difficult for competitors to replicate because they do not possess Tesla’s HEPA filter and Bioweapon Defense Mode technology or a suite of other products to connect to for increasing the product’s utility.
+          </p>
+
+
+          <h5 style="padding-top: 2em">Concept is feasible and can be implemeneted</h5>
+          <p>
+          Tesla Air is feasible and ready to be implemented because all of the technological components already exist. Tesla has its HEPA air filter, they’re capable of wirelessly connecting their products through Bluetooth and the internet, and a Tesla phone application can remotely control the A/C units.
+
+          </p>
+
+
+          <h5 style="padding-top: 2em">Concepts return exceeds its cost</h5>
+          <p>
+            Although Tesla Air will be slightly more expensive than other ductless mini split systems, the innovation in the technology should be more than enough to justify the premium price and exceed the cost of manufacturing and installation. There will also be an additional revenue stream through the filter subscription program and potential add-on services that integrate with other Tesla products.
+          </p>
+
+          <h5 style="padding-top: 2em">Concept offers a complete value proposition</h5>
+          <p>Target Market: Consumers concerned about air-quality in their homes, people who want a more energy-efficient system, and current Tesla customers who want to increase the utility of their other Tesla products by adding more appliances to their network.</p>
+          <p> - Noxious gas detection and air purification through Tesla’s state-of-the-art HEPA filter.<br>
+              - Complete integration into Tesla’s other products, including electric vehicles and Powerwall.<br>
+              - Zone control that enables customers to only cool or heat areas of the house they choose, resulting in a lower energy bill and more efficient use of energy.<br>
+              - Machine learning technology that learns the customer’s A/C habits.<br>
+          </p>
+          <p>
+            Estimated Initial Price Range: The cost of the Tesla Air system will be between $2,500 - $15,000, depending on the size of the building. The HEPA filters will cost less than $100 and customers can subscribe to a program to have them shipped to their homes monthly, semi-monthly, or quarterly.
+          </p>
+
+          <h5 style="padding-top: 2em">Company, Products, Market</h5>
+          <p>
+            Tesla, Inc. was founded in 2003 by Elon Musk and four other engineers who “wanted to prove that people didn’t need to compromise to drive electric” (Tesla, n.d.). Tesla’s overarching mission is “to accelerate the world’s transition to sustainable energy” (Tesla, n.d.). The strategy used to accomplish this mission is similar to that of tech hardware companies. They started by launching a premium electric sports car, the Tesla Roadster, with the target market being more affluent customers. They then used the revenue from those sales to fund a more affordable family-friendly sedan, the Model S. The massive success of the Model S has enabled Tesla to bring electric vehicles to the masses with the Model 3, the world’s best-selling electric vehicle, starting at roughly $34,000 (Wagner, 2020). Now that Tesla has a sustainable business model, they have started to venture into other markets that further their mission of creating a sustainable energy economy. In pursuit of this mission, Tesla has become a vertically integrated manufacturer of batteries, motors, AI technology, and glass.
+          </p>
+          <p>
+            As previously mentioned, Tesla is mostly known for its electric vehicle line up with the Model S, Model 3, Model X, and Model Y. Though not on the market yet, they are also currently producing the Cyber Truck, a pick-up truck to rival the Ford F-Series, and a state-of-the-art Semi Truck, Tesla Semi. Tesla also offers the Powerwall, an energy storage bank that homeowners can use to store excess energy from their solar panels in case of emergency and the Powerpack for commercial customers to store and manage their business center’s energy. With the purchase of SolarCity in 2016, Tesla has also entered the solar technology market (Tesla, 2016). The SolarCity purchase enables Tesla to extend its product offering to solar panels and solar roofs. Tesla now has a sustainable energy ecosystem with a focus on capturing, storing, and delivering clean energy. All of Tesla’s products are almost exclusively sold through its website, tesla.com. Customers can also test-drive and order vehicles through Tesla retail stores and galleries.
+          </p>
+          <p>
+            Geographically, Tesla sells electric vehicles all over the world with the United States and China representing the biggest markets. As far as products and services are concerned, Tesla operates in the automobile market with its lineup of electric vehicles and the sustainable energy market with its solar panels, solar roof, and energy storage. In pursuit of uncompromising electric vehicles, Tesla has also mastered several technological disciplines that put them in the battery, motor, glass, and Artificial Intelligence markets as well.
+          </p>
+          <h5 style="padding-top: 2em">Company Fit</h5>
+          <p>
+            Tesla Air is a great fit for the company as a whole. Cooling and heating currently represent 46% of household energy use, so HVAC represents the next logical category to be disrupted by a more sustainable system (Direct Energy, n.d.). This innovation concept perfectly aligns with the company's overall mission.
+          </p>
+
+          <h5 style="padding-top: 2em">Intended Target Market and Competition</h5>
+          <p>
+            The intended market for Tesla Air is people concerned about the air quality in their homes and about wasting energy cooling and heating their entire home rather than the areas they occupy at a particular time of the day. Tesla Air would also make a great compliment to consumers who have Tesla’s other products, want a smart A/C system, and want to minimize their impact on the environment. The biggest competitors of this innovation are Mitsubishi, Fujitsu, and LG Electronics.
+          </p>
+
+          <h5 style="padding-top: 2em">Features, Functions, and Benefits of Innovation Concept</h5>
+          <p>
+            The most important feature of Tesla Air is the HEPA filter with sensors that enable it to detect noxious gases in a home and filter them out, along with other irritants. According to the Asthma and Allergy Foundation of America, “allergies are the 6th leading cause of chronic illness in America”, so it is a serious concern for consumers (Asthma and Allergy Foundation of America, n.d. ). When Tesla Air detects noxious gases, it will automatically engage Bioweapon Defense Mode and alert the customer of the likely source of the gas. The following image illustrates how effective the HEPA filter and Bioweapon Defense Mode are at combating hazardous gases:
+            <img src="assets/img/project/biohazard-line-graph.jpeg" style="width: 100%">
+            Figure1. Graph showing the effectiveness of the HEPA filter and Bioweapon Defense Mode, Tesla, Inc.,  c. 2016. <br>
+          <p>
+            The image is the result of an experiment Tesla conducted to test the effectiveness of their filter. Tesla put a Model X electric vehicle in a 20’ x 20’ plastic bubble and pumped in hazardous gas before engaging the Bioweapon Defense Mode with their filter. As you can see, the technology is extremely effective, having purified the air in this scenario in around three minutes. Tesla Air will also integrate with other Tesla products via the internet and Bluetooth. You’ll be able to automatically turn the A/C off when you leave the house and, on return, Tesla’s vehicles will notify the house when they’re 15 minutes away so the system can turn on and provide the perfect temperature for customers when they arrive. This also enables the customer to save money on their energy bill and lower their impact on the environment, which is core to Tesla’s mission. The Tesla Air system will be a mini split style A/C system that allows customers to have them in multiple rooms and control which areas of the house receive cooling and heating. Customers will also be able to enroll in a subscription program to have the HEPA air filters mailed to their homes monthly, semi-monthly, or quarterly, depending on their needs.
+            </p>
+          </p>
+
+          <h5 style="padding-top: 2em">Competitive Differentiation of the Innovation Concept</h5>
+          <p>
+            The competitive differentiation in Tesla Air mostly lies in the technology of the HEPA air filter and Bioweapon Defense Mode. The other advantage is that the innovative concept will seamlessly integrate with Tesla’s other products.
+          </p>
+
+          <h5 style="padding-top: 2em">Critical Risks and Limitations</h5>
+          <p>
+            Tesla Air will be a ductless mini split style A/C unit, which is typically more expensive upfront compared to central cooling and heating units (HomeAdvisor, n.d.). However, the long term savings are substantial and will offset the lifetime costs of the system.
+          </p>
+
+
+    </div>
+  </div>
+
+
+
+
+</div>
