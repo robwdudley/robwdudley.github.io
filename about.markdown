@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<img src="assets/img/about-photo.jpg" class="about-photo" style="width: 100%"><br />
+<img src="assets/img/about-photo.JPG" class="about-photo" style="width: 100%"><br />
 I’m Rob Dudley, a student, UX designer, and business-minded technologist passionate about helping others with technology. My time in retail (10+ years) has given me an obsession with customer service that compels me to go above and beyond for my customers.
 
 I love traveling, reading, fitness, and craft beer. One of my favorite things to do is sit outside on a nice sunny day, reading a book and sipping on an IPA.
