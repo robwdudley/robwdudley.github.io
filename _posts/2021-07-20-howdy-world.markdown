@@ -2,14 +2,9 @@
 layout: single-post
 title:  "'Howdy, world!'"
 date:   2021-07-16
-time: 10 min read
+time: 1 min read
 categories: business
 ---
-
-{{ page.url }} <br>
-{{ page.title }} <br>
-{{ site.url }} <br>
-{{ page.description }}
 
 Welcome to my first blog post! I suppose I should start with the reason for this site.
 
